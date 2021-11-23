@@ -10,3 +10,4 @@ TODO
 - Write the tests
 - ~~Test the script in a Windows environment~~
 - ~~Remove the /vendor/*/*/test folders in the deploy package for optimization~~
+- PHP8!
